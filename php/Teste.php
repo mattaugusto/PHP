@@ -47,7 +47,10 @@ class Teste
 
 $teste = new Teste('João','123123123');
 
+//table
+
 echo $teste->get_Nome();
+
 
 
 
